@@ -1,0 +1,5 @@
+azure-ai-openai
+azure-search-documents
+requests
+ddgs
+pathlib
